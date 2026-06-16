@@ -1,13 +1,19 @@
 {
   "qq_number": "639058098",
   "group_number": "642167337",
+  "updated_at": "2026-06-16T08:07:24+00:00",
   "skins": [
     {
       "name": "乐妍底包",
       "file": "和の不要问我从哪里来-CSS-图片替换.bds",
       "thumb": "和の不要问我从哪里来-CSS-图片替换.bds_py_26_light_thumb.png",
       "full": "和の不要问我从哪里来-CSS-图片替换.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "和の不要问我从哪里来-CSS-图片替换",
+      "file": "和の不要问我从哪里来-CSS-图片替换.bdi",
+      "thumb": "和の不要问我从哪里来-CSS-图片替换.bdi_py_26_light_thumb.png",
+      "full": "和の不要问我从哪里来-CSS-图片替换.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-16T08:06:57+00:00"
+  ]
 }
