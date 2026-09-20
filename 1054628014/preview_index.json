@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-09-20T23:42:23+00:00",
+  "updated_at": "2026-09-20T23:43:10+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -16,6 +16,13 @@
       "thumb": "和_如莓色红绸般幻想脆音.bdi_py_26_light_thumb.png",
       "full": "和_如莓色红绸般幻想脆音.bdi_py_26_light_thumb.png",
       "file_id": "3e0dc3cb6e0317cf14747d907a1fa069"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和_纱裙下的半勺奶油梦脆音.bdi",
+      "thumb": "和_纱裙下的半勺奶油梦脆音.bdi_py_26_light_thumb.png",
+      "full": "和_纱裙下的半勺奶油梦脆音.bdi_py_26_light_thumb.png",
+      "file_id": "8a1bf7602fb886e2a1d314f1927f6410"
     }
   ]
 }
