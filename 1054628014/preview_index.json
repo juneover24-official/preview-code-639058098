@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-09-27T12:59:56+00:00",
+  "updated_at": "2026-09-27T15:06:36+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -128,6 +128,13 @@
       "thumb": "和の独属于少女的虚妄版本一脆.bds_py_26_light_thumb.png",
       "full": "和の独属于少女的虚妄版本一脆.bds_py_26_light_thumb.png",
       "file_id": "133f9572d483efa506d0849ee906542f"
+    },
+    {
+      "name": "和の回廊只剩柔和的纱-脆",
+      "file": "和_回廊只剩柔和的纱脆.bds",
+      "thumb": "和_回廊只剩柔和的纱脆.bds_py_26_light_thumb.png",
+      "full": "和_回廊只剩柔和的纱脆.bds_py_26_light_thumb.png",
+      "file_id": "f565151430075e0d35cb6460e2801576"
     }
   ]
 }
