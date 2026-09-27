@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-09-27T07:57:44+00:00",
+  "updated_at": "2026-09-27T11:09:31+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -93,6 +93,13 @@
       "thumb": "和の独属于少女的虚妄版本二闷单音.bdi_py_26_light_thumb.png",
       "full": "和の独属于少女的虚妄版本二闷单音.bdi_py_26_light_thumb.png",
       "file_id": "d149dd5c94686861ad8e03a67b7ab069"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和の独属于少女的虚妄版本二闷-.bdi",
+      "thumb": "和の独属于少女的虚妄版本二闷-.bdi_py_26_light_thumb.png",
+      "full": "和の独属于少女的虚妄版本二闷-.bdi_py_26_light_thumb.png",
+      "file_id": "09c624504f58fc0f02d5672553e63180"
     }
   ]
 }
