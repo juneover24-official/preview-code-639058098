@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-09-28T08:59:07+00:00",
+  "updated_at": "2026-09-28T10:58:16+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -156,6 +156,13 @@
       "thumb": "和の独属于少女的虚妄版本一闷单音.bds_py_26_light_thumb.png",
       "full": "和の独属于少女的虚妄版本一闷单音.bds_py_26_light_thumb.png",
       "file_id": "274d040a6ad8c8a8d83cfb2699094016"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和_鸢尾花之凋零曲脆音.bds",
+      "thumb": "和_鸢尾花之凋零曲脆音.bds_py_26_light_thumb.png",
+      "full": "和_鸢尾花之凋零曲脆音.bds_py_26_light_thumb.png",
+      "file_id": "ac2f69aac495dfb852dec3ae8fbdbd19"
     }
   ]
 }
