@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-11-01T12:12:35+00:00",
+  "updated_at": "2026-11-01T12:13:03+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -282,6 +282,13 @@
       "thumb": "和の少女静卧藤篱花之上闷前景二.bds_py_26_light_thumb.png",
       "full": "和の少女静卧藤篱花之上闷前景二.bds_py_26_light_thumb.png",
       "file_id": "e534b80476a7440dcc436313d92c6764"
+    },
+    {
+      "name": "和の少女静卧藤篱花之上闷前景二",
+      "file": "和の少女静卧藤篱花之上闷前景二.bdi",
+      "thumb": "和の少女静卧藤篱花之上闷前景二.bdi_py_26_light_thumb.png",
+      "full": "和の少女静卧藤篱花之上闷前景二.bdi_py_26_light_thumb.png",
+      "file_id": "ec28358f5ebe4416f707e9f8dec8dd4e"
     }
   ]
 }
