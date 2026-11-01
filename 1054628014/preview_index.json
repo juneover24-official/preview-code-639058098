@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-11-01T12:40:13+00:00",
+  "updated_at": "2026-11-01T12:40:51+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -436,6 +436,13 @@
       "thumb": "和_鸢尾花之凋零曲闷音.bds_py_26_light_thumb.png",
       "full": "和_鸢尾花之凋零曲闷音.bds_py_26_light_thumb.png",
       "file_id": "e9b611d5abd2b16ee9c77999f841ed93"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和_鸢尾花之凋零曲闷音.bdi",
+      "thumb": "和_鸢尾花之凋零曲闷音.bdi_py_26_light_thumb.png",
+      "full": "和_鸢尾花之凋零曲闷音.bdi_py_26_light_thumb.png",
+      "file_id": "215a8a77a2c491b2f48f75e3f6a62900"
     }
   ]
 }
