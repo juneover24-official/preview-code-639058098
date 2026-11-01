@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-11-01T12:25:28+00:00",
+  "updated_at": "2026-11-01T12:26:08+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -338,6 +338,13 @@
       "thumb": "和_回廊只剩柔和的纱脆无漂浮.bds_py_26_light_thumb.png",
       "full": "和_回廊只剩柔和的纱脆无漂浮.bds_py_26_light_thumb.png",
       "file_id": "2d2efb50cad1db9d58bed6e2954325e3"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和_回廊只剩柔和的纱闷无漂浮.bdi",
+      "thumb": "和_回廊只剩柔和的纱闷无漂浮.bdi_py_26_light_thumb.png",
+      "full": "和_回廊只剩柔和的纱闷无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "e4f22c39b4539d602b8af539ddf797fb"
     }
   ]
 }
