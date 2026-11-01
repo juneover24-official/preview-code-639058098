@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-11-01T11:37:34+00:00",
+  "updated_at": "2026-11-01T11:39:29+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -198,6 +198,13 @@
       "thumb": "和の静默直至欧罗巴的永恒闷二.bdi_py_26_light_thumb.png",
       "full": "和の静默直至欧罗巴的永恒闷二.bdi_py_26_light_thumb.png",
       "file_id": "105c040c3a4df4b13b7d5c5610152720"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和の静默直至欧罗巴的永恒闷二.bds",
+      "thumb": "和の静默直至欧罗巴的永恒闷二.bds_py_26_light_thumb.png",
+      "full": "和の静默直至欧罗巴的永恒闷二.bds_py_26_light_thumb.png",
+      "file_id": "a37ea6a0a8ac6c43c8ee44df38f2d267"
     }
   ]
 }
