@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-11-01T12:26:57+00:00",
+  "updated_at": "2026-11-01T12:30:56+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -352,6 +352,13 @@
       "thumb": "和_回廊只剩柔和的纱脆无漂浮.bdi_py_26_light_thumb.png",
       "full": "和_回廊只剩柔和的纱脆无漂浮.bdi_py_26_light_thumb.png",
       "file_id": "b72e427ac87cbe0946ba85e2769747db"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和_如莓色红绸般幻想脆音无漂浮.bdi",
+      "thumb": "和_如莓色红绸般幻想脆音无漂浮.bdi_py_26_light_thumb.png",
+      "full": "和_如莓色红绸般幻想脆音无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "aba0308c0172e9d3c85ecc5c950e6c3d"
     }
   ]
 }
