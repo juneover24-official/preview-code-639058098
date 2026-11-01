@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-11-01T12:35:50+00:00",
+  "updated_at": "2026-11-01T12:36:27+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -401,6 +401,13 @@
       "thumb": "和_飘出半段柏林呼吸脆音.bds_py_26_light_thumb.png",
       "full": "和_飘出半段柏林呼吸脆音.bds_py_26_light_thumb.png",
       "file_id": "a81d764f0b1a0aa889f057ad6d4bdf1c"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和_飘出半段柏林呼吸脆音版本二.bdi",
+      "thumb": "和_飘出半段柏林呼吸脆音版本二.bdi_py_26_light_thumb.png",
+      "full": "和_飘出半段柏林呼吸脆音版本二.bdi_py_26_light_thumb.png",
+      "file_id": "0bcea0056e7d3ae3df7041d25f445c8f"
     }
   ]
 }
