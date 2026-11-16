@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-11-16T07:03:17+00:00",
+  "updated_at": "2026-11-16T07:03:24+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -513,6 +513,13 @@
       "thumb": "和の勿恋铃兰水色姬脆.bds_py_26_light_thumb.png",
       "full": "和の勿恋铃兰水色姬脆.bds_py_26_light_thumb.png",
       "file_id": "c77ca329c564439e358bfbff3261de08"
+    },
+    {
+      "name": "和の勿恋铃兰水色姬融闷",
+      "file": "和の勿恋铃兰水色姬闷.bds",
+      "thumb": "和の勿恋铃兰水色姬闷.bds_py_26_light_thumb.png",
+      "full": "和の勿恋铃兰水色姬闷.bds_py_26_light_thumb.png",
+      "file_id": "1d568c090eb3ad22ba965394adc3b64a"
     }
   ]
 }
