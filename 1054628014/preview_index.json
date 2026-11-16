@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-11-16T11:02:12+00:00",
+  "updated_at": "2026-11-16T11:03:08+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -562,6 +562,13 @@
       "thumb": "和の白鸽与少女的伊甸闷.bdi_py_26_light_thumb.png",
       "full": "和の白鸽与少女的伊甸闷.bdi_py_26_light_thumb.png",
       "file_id": "6637eb6fc6c9d967dfb64b5d66b89b34"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和の白鸽与少女的伊甸脆.bdi",
+      "thumb": "和の白鸽与少女的伊甸脆.bdi_py_26_light_thumb.png",
+      "full": "和の白鸽与少女的伊甸脆.bdi_py_26_light_thumb.png",
+      "file_id": "7c8012e65a744f5f1c45d04d48728ca1"
     }
   ]
 }
