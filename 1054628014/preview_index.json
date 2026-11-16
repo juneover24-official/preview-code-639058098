@@ -1,7 +1,7 @@
 {
   "qq_number": "639058098",
   "group_number": "1054628014",
-  "updated_at": "2026-11-16T07:09:21+00:00",
+  "updated_at": "2026-11-16T07:10:28+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -515,13 +515,6 @@
       "file_id": "c77ca329c564439e358bfbff3261de08"
     },
     {
-      "name": "和の勿恋铃兰水色姬融脆",
-      "file": "和の勿恋铃兰水色姬脆.bdi",
-      "thumb": "和の勿恋铃兰水色姬脆.bdi_py_26_light_thumb.png",
-      "full": "和の勿恋铃兰水色姬脆.bdi_py_26_light_thumb.png",
-      "file_id": "5096d8a1931e544c109ae2ddac3bd7c7"
-    },
-    {
       "name": "和の勿恋铃兰水色姬iOS27融脆",
       "file": "和の勿恋铃兰水色姬27融脆.bdi",
       "thumb": "和の勿恋铃兰水色姬27融脆.bdi_py_26_light_thumb.png",
@@ -534,6 +527,13 @@
       "thumb": "和の勿恋铃兰水色姬闷.bds_py_26_light_thumb.png",
       "full": "和の勿恋铃兰水色姬闷.bds_py_26_light_thumb.png",
       "file_id": "1d568c090eb3ad22ba965394adc3b64a"
+    },
+    {
+      "name": "和の勿恋铃兰水色姬融脆",
+      "file": "和の勿恋铃兰水色姬脆.bdi",
+      "thumb": "和の勿恋铃兰水色姬脆.bdi_py_26_light_thumb.png",
+      "full": "和の勿恋铃兰水色姬脆.bdi_py_26_light_thumb.png",
+      "file_id": "5096d8a1931e544c109ae2ddac3bd7c7"
     }
   ]
 }
